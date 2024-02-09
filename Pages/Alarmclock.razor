@@ -1,0 +1,216 @@
+﻿@using MultiLanguageSupport.MLIndex
+@using System.Threading
+@implements IDisposable
+<!-- duzy ekran-->
+<div class="d-none d-md-block">
+    <h3>@MLIndex.alarmclock</h3>
+    <div>
+        Czas:<br />
+        <div style="font-size: 30px">@theTime</div>
+    </div>
+    <div style="margin-left:25%;max-width:500px;">
+        <p style="margin-left:20%;margin-top:-7%">Podaj czas:</p>
+        <div class="input-group" style="width:300px">
+            <input type="text" @oninput="@(e => { OnChangeValue1(e); })" class="timeform" />
+            <span class="input-group-text">:</span>
+            <input type="text" @oninput="@(e => { OnChangeValue2(e); })" class="timeform" />
+            <span class="input-group-text">:</span>
+            <input type="text" @oninput="@(e => { OnChangeValue3(e); })" class="timeform" />
+        </div>
+    </div>
+    <button type="button" class="btn btn-primary bigbtn" @onclick="AlarmClicked">@buttonText</button>
+    <div style="margin-left:60%;margin-top:-7%">
+        <div hidden="@timeleft">Pozostalo czasu:</div>
+        <div hidden="@timeleft" style="font-size: 30px">@counting</div>
+    </div>
+</div>
+    <!-- maly ekran-->
+<div class="d-md-none smallbtn">
+    <h3>@MLIndex.alarmclock</h3>
+    <div>
+        Czas:<br />
+        <div style="font-size: 30px">@theTime</div>
+    </div>
+    <p>Podaj czas:</p>
+    <div class="input-group" style="width:250px">
+        <input type="text" @oninput="@(e => { OnChangeValue1(e); })" class="timeform" />
+        <span class="input-group-text">:</span>
+        <input type="text" @oninput="@(e => { OnChangeValue2(e); })" class="timeform" />
+        <span class="input-group-text">:</span>
+        <input type="text" @oninput="@(e => { OnChangeValue3(e); })" class="timeform" />
+    </div>
+    <br /><br />
+    <button type="button" class="btn btn-primary smallbtn smallac" @onclick="AlarmClicked">@buttonText</button>
+    <div hidden="@timeleft">Pozostalo czasu:</div>
+    <div hidden="@timeleft" style="font-size: 30px">@counting</div>
+</div>
+    @code {
+        public bool timeleft = true;
+        public bool warning = true;
+
+        public string thours = "";
+        public string tminutes = "";
+        public string tseconds = "";
+        private void OnChangeValue1(ChangeEventArgs e)
+        {
+            thours = e.Value.ToString();
+        }
+        private void OnChangeValue2(ChangeEventArgs e)
+        {
+            tminutes = e.Value.ToString();
+        }
+        private void OnChangeValue3(ChangeEventArgs e)
+        {
+            tseconds = e.Value.ToString();
+        }
+    }
+
+    @code {
+
+        private string buttonText = MLIndex.start;
+        private string counting;
+        public TimeSpan chosenTime;
+        public double sec;
+        public double h;
+        public double m;
+        private bool on = false;
+        public int hours = 0;
+        public int minutes = 0;
+        public int seconds = 0;
+        public void AlarmClicked()
+        {
+
+            // Pobranie wskaźnika na obiekt klasy odpowiedzialnej za odtworzenie dźwięku. Rodzaj klasy zostanie wybrany w zależności od platformy na jaką zostanie skompilowana aplikacja.
+            //ISound s = DependencyService.Get<ISound>();
+
+
+            if (thours != "")
+            {
+                hours = Convert.ToInt32(thours);
+            }
+            if (tminutes != "")
+            {
+                minutes = Convert.ToInt32(tminutes);
+            }
+            if (tseconds != "")
+            {
+                seconds = Convert.ToInt32(tseconds);
+            }
+
+
+            chosenTime = new TimeSpan(hours, minutes, seconds);
+            on = !on;
+            if (on)
+                buttonText = MLIndex.stop;
+            else
+                buttonText = MLIndex.start;
+
+
+            if (theTime == counting)
+            {
+                buttonText = MLIndex.start;
+                counting = "";
+                // if (s != null)
+                // Rozpoczęcie odtwarzania dźwięku.
+                //     s.Play();
+
+
+                //counting.IsVisible = false;
+                timeleft = true;
+                // return false;
+            }
+            else if (buttonText == MLIndex.start)
+            {
+                timeleft = true;
+                //return false;
+            }
+            else
+            {
+                //counting.IsVisible = true;
+                timeleft = false;
+                TimeSpan t = (chosenTime -
+                    TimeSpan.FromSeconds(DateTime.Now.Second) -
+                    TimeSpan.FromMinutes(DateTime.Now.Minute) -
+                    TimeSpan.FromHours(DateTime.Now.Hour));
+                sec = (double)t.TotalSeconds;
+                m = (double)t.TotalMinutes;
+                h = (double)t.TotalHours;
+
+
+
+
+            }
+
+        }
+
+
+    }
+
+
+    @code{
+
+        string theTime;
+        Timer aTimer;
+        Timer aTimer2;
+
+        protected override void OnInitialized()
+        {
+            aTimer = new Timer(Tick, null, 0, 1000);
+            aTimer2 = new Timer(Tick2, null, 0, 1000);
+        }
+
+        private void Tick(object _)
+        {
+            theTime = DateTime.Now.ToLongTimeString();
+            InvokeAsync(StateHasChanged);
+        }
+
+        public void Dispose()
+        {
+            aTimer?.Dispose();
+        }
+
+
+        private void Tick2(object _)
+        {
+
+            // if (s != null)
+            // Rozpoczęcie odtwarzania dźwięku.
+            //     s.Play();
+
+            if (sec > 0 && m > 0 && h > 0)
+            {
+                counting = (chosenTime -
+                TimeSpan.FromSeconds(DateTime.Now.Second) -
+                TimeSpan.FromMinutes(DateTime.Now.Minute) -
+                TimeSpan.FromHours(DateTime.Now.Hour)).ToString();
+                // return true;
+
+                if (counting == "00:00:00")
+                {
+
+                    buttonText = MLIndex.start;
+                    timeleft = true;
+                }
+
+            }
+
+            //
+            else
+            {
+
+                buttonText = MLIndex.start;
+                timeleft = true;
+
+
+            }
+
+            InvokeAsync(StateHasChanged);
+        }
+
+
+        public void Dispose2()
+        {
+            aTimer2?.Dispose();
+        }
+    }

@@ -1,0 +1,172 @@
+﻿@using MultiLanguageSupport.MLIndex
+@using System.Threading
+@implements IDisposable
+<!-- duzy ekran-->
+<div class="d-none d-md-block">
+
+    <button type="button" class="btn btn-primary smallbtn" disabled="@paused" @onclick="AlarmClicked">@buttonText</button>
+    <br /><br />
+    <button type="button" class="btn btn-primary smallbtn" @onclick="PauseClicked">@buttonText2</button>
+    <div style="margin-left:40%;margin-top:-7%">
+        <div hidden="@stopt" style="font-size: 30px">@temp3</div>
+        <div hidden="@timeleft" style="font-size: 30px">@counting </div>
+    </div>
+</div>
+<!-- maly ekran-->
+<div class="d-md-none smallbtn">
+
+    <button type="button" class="btn btn-primary smallbtn" disabled="@paused" @onclick="AlarmClicked">@buttonText</button>
+    <br />
+    <button type="button" class="btn btn-primary smallbtn" @onclick="PauseClicked">@buttonText2</button>
+    <br /><br />
+    <div hidden="@stopt" style="font-size: 30px">@temp3</div>
+    <div hidden="@timeleft" style="font-size: 30px">@counting </div>
+
+</div>
+@code {
+    public bool timeleft = true;
+    public bool stopt = true;
+    public bool paused =false;
+}
+
+@code {
+
+    private string buttonText = MLIndex.start;
+    private string buttonText2 = MLIndex.pause;
+    private string counting;
+    public TimeSpan chosenTime;
+    public double sec;
+    public double h;
+    public double m;
+    private bool on = false;
+    private string temp;
+    private string temp3;
+    private string temp2="";
+
+
+    public void PauseClicked()
+    {
+        on = !on;
+        if (on)
+            buttonText2 = MLIndex.pause;
+        else
+            buttonText2 = MLIndex.resume;
+
+        if (buttonText2 == MLIndex.resume)
+        {
+            paused = true;
+            temp = counting;
+        }
+        else
+        {
+            paused = false;
+        }
+    }
+    public void AlarmClicked()
+    {
+
+        // Pobranie wskaźnika na obiekt klasy odpowiedzialnej za odtworzenie dźwięku. Rodzaj klasy zostanie wybrany w zależności od platformy na jaką zostanie skompilowana aplikacja.
+        //ISound s = DependencyService.Get<ISound>();
+
+
+
+        chosenTime = new TimeSpan(0, 0, 0, 0, 0);
+        on = !on;
+        if (on)
+            buttonText = MLIndex.stop;
+        else
+            buttonText = MLIndex.start;
+
+
+
+        if (buttonText == MLIndex.start && buttonText2 == MLIndex.pause)
+        {
+            timeleft = true;
+            temp3 = temp2;
+            stopt = false;
+
+
+            //
+            //return false;
+        }
+        else
+        {
+
+            timeleft = false;
+            stopt = true;
+
+
+
+
+        }
+
+    }
+
+
+}
+
+
+@code{
+
+    string theTime;
+    Timer aTimer;
+
+    protected override void OnInitialized()
+    {
+        aTimer = new Timer(Tick, null, 0, 100);
+    }
+
+
+
+    private void Tick(object _)
+    {
+
+        // if (s != null)
+        // Rozpoczęcie odtwarzania dźwięku.
+        //     s.Play();
+        if (buttonText2 == MLIndex.resume)
+        {
+            counting = temp;
+        }
+        else
+        {
+            counting = (chosenTime +=
+    TimeSpan.FromMilliseconds(100)).ToString(@"hh\:mm\:ss\.fff");
+            temp2 = counting;
+        }
+
+        if (counting == "00:00:00")
+        {
+            //
+            buttonText = MLIndex.start;
+            timeleft = true;
+        }
+
+        // return true;
+        /*
+        if (counting == "00:00:00")
+        {
+            //
+            buttonText = MLIndex.start;
+            timeleft = true;
+        }
+
+        
+    //
+    else
+    {
+        buttonText = MLIndex.start;
+        timeleft = true;
+
+
+    }
+*/
+        InvokeAsync(StateHasChanged);
+    }
+
+
+    public void Dispose()
+    {
+        aTimer?.Dispose();
+    }
+}

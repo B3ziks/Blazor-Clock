@@ -1,0 +1,1294 @@
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\Zadanie11.StaticWebAssets.xml
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\Zadanie11.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\ref\Zadanie11.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\Zadanie11.pdb
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Zadanie11.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Zadanie11.pdb
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.csproj.AssemblyReference.cache
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.AssemblyInfoInputs.cache
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.AssemblyInfo.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.csproj.CoreCompileInputs.cache
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.MvcApplicationPartsAssemblyInfo.cache
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.RazorComponent.input.cache
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.RazorComponent.output.cache
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Zadanie11.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.TagHelpers.input.cache
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.TagHelpers.output.cache
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.RazorCoreGenerate.cache
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\2mh3GyEv.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\3C5NhDOh.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\fzkiX7cq.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\IdvWVHyh.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\YoqD+gaE.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\OwwkhKJ9.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\q93R+068.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\8ewxBSMH.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\NfUVzETk.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\hebFEtok.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\YmUKM7Aj.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\KlI8tU3C.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\1uTri9BV.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\uRWmmr9a.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\szDZW8xs.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\0o0kmcro.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\R2lkHyGz.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\V407B5f+.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\yMTpg194.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\TmoAVy05.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\9yJuSB30.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\tLwS4IHp.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\i8ba1m3j.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\28aDXAtV.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\y++ggaCq.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\vBLGD6gC.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\8R7JjqA3.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\NJxqLUAO.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\cypnkdaN.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\Bqqc9Zpu.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\Nz+ZDziP.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\+69j1B5s.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\kF4Agglm.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\YP9yUZFM.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\gdgtfs9b.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\NthPpUBE.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\kYUipJOY.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\3zXzNWin.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\LECgNIzE.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\p811YDMT.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\O9k6hilK.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\RDwrsPUg.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\GODYI1yZ.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\uzugNcAm.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\0noL9j9P.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\AVtdIXFz.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\mIpiLgOW.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\N8rOTtsQ.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\Yph8cflh.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\ziSzk5qk.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\ZLI4fK50.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\gdoOJ+bc.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\8y3wSWFN.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\FDK71Z2E.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\6BluzWK9.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\w+9XHA+4.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\y2+6vJoR.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\cdynufXm.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\Xy+EkoGb.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\dgfB+CUI.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\PMDqrovr.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\b+NpKu1+.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\PSCxVHU9.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\AsNNIEsA.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\DB5dQLST.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\f7QuzbIz.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\LkztNbIh.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\dEiTJz08.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\i+6pdo8x.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\i8OyqxaD.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\p7ywpiv2.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\BUk7ThfU.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\VKixVLwn.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\N6fT+sNz.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\8nl483hn.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\NULv123V.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\oYri8y55.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\PpsKCqy8.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\MHkmD6vU.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\u+gYXR++.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\0g4B7hJo.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\v4nE0wh9.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\rES3JMVd.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\MT+Phcr2.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\qJg7nchl.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\ABmSa+8Z.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\ACFSkDe7.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\Mk3wULwv.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\9y3sDGQG.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\2Fyn689X.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\TOSfhdYv.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\tSX4G2wJ.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\Qs8sFu+I.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\PsL+Ss9R.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\KSUvpjGh.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\yt2pdJk0.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\LXH+rD2G.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\Dtdc+ByR.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\adWgD+Bi.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\4bDqC2m8.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\2GIE2G1T.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\URfj1sla.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\dDP9nJS0.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\MVnxDFe2.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\uArNFYNO.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\RiQ02QSw.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\u6AEKZKi.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\08yLi8Jx.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\vlWZmgRX.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\qfqzdHc+.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\Ll3p1tHM.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\phA43Ha+.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\BALc7rfl.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\S+M7LBXt.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\rsTQwj62.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\B2BafJSb.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\5VqAdG6p.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\Z7524P9F.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\DUb83zeg.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\q8w7cbOt.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\jDn6h4jp.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\mszVFLCs.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\9B2s0Ewv.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\FvTVSlQ3.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\85kgO6Xs.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\6cS5tzm4.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\nWu+O0uK.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\jC6+4wml.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\GsbfpUlp.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\+7sOSwX+.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\IgYtXh+i.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\n+9jXnGY.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\rwPRDVQp.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\8puoo+6V.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\0+7Dt2vX.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\mh3842bJ.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\lr25B3cG.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\grSOSUMF.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\KcP42FMe.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\hbnvVhwN.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\r4q5NM+C.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\PG0DC6Pk.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\N+5Ad6ZH.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\iC9c+DOz.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\8MUOQp4Y.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\p9JGTr7q.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\XCZQk16F.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\Sd212e7Z.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\aLNrBquG.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\WDgxEI+D.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\KGjmsHL+.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\xRNNKTFV.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\AaEmYXfJ.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\Z7I3MZBo.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\iR6UJ2ig.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\C3IqCeJo.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\GNcBbVtv.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\eIt5jtdK.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\iev8kuB3.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\pAsHQE6E.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\a8pWCodv.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\l18dNilp.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\b9+k1ZMP.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\6rh3ev6J.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\QeaXraQU.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\MGGOe017.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\poyGWe9V.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\EMkMYPHi.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\Lh0RS6Wj.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\2RtU82+p.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\bp7xHivG.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\BkDPCoyf.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\fgJY9kBT.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\b+8Tb0Jd.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\66+IzJj+.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\fDph8fMO.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\C2BPZxjU.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\9a2RvFVT.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\RmaofWQy.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\q1FLqKDn.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\LndQ9Zck.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\CIapiAmQ.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\0S9B7L8+.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\dur2+Idr.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\RaBqPCVl.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\Ud5DomDU.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\QGPj9AVm.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\z50gPBI8.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\jWpuq3O1.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\Dk0+isdK.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\lezTiNUD.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\ClyOH44F.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\SWpkvnP8.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\eU2OZaPX.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\build-gz\Y+vfiJcJ.gz
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\staticwebassets\Zadanie11.StaticWebAssets.Manifest.cache
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\staticwebassets\Zadanie11.StaticWebAssets.xml
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\scopedcss\bundle\Zadanie11.styles.css
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\scopedcss\projectbundle\Zadanie11.bundle.scp.css
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.RazorTargetAssemblyInfo.cache
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.csproj.CopyComplete
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\ref\Zadanie11.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.pdb
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Shared\Dropdown.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Shared\DropdownListItem.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Razor\Shared\Dropdown.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Razor\Shared\DropdownListItem.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.MultiLanguageSupport.MLIndex.MLIndex.resources
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.MultiLanguageSupport.MLIndex.MLIndex.pl.resources
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Zadanie11.csproj.GenerateResource.cache
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\pl\Zadanie11.resources.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\pl\Zadanie11.resources.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\pl\Zadanie11.resources.dll
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\blazor.satelliteasm.props
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Pages\Alarmclock.razor.g.cs
+D:\ProgramowanieAplikacjiMobilnych\KamilJagielko\Zadanie11\obj\Debug\net5.0\Razor\Pages\Alarmclock.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.dll
+D:\mobile app\Zadanie11\obj\Debug\net5.0\ref\Zadanie11.dll
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.pdb
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+D:\mobile app\Zadanie11\bin\Debug\net5.0\Zadanie11.StaticWebAssets.xml
+D:\mobile app\Zadanie11\bin\Debug\net5.0\Zadanie11.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\ref\Zadanie11.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\Zadanie11.pdb
+D:\mobile app\Zadanie11\bin\Debug\net5.0\pl\Zadanie11.resources.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Zadanie11.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Zadanie11.pdb
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\pl\Zadanie11.resources.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js.gz
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\mobile app\Zadanie11\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.csproj.AssemblyReference.cache
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.MultiLanguageSupport.MLIndex.MLIndex.resources
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.MultiLanguageSupport.MLIndex.MLIndex.pl.resources
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.csproj.GenerateResource.cache
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.GeneratedMSBuildEditorConfig.editorconfig
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.AssemblyInfoInputs.cache
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.AssemblyInfo.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.csproj.CoreCompileInputs.cache
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.MvcApplicationPartsAssemblyInfo.cache
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.RazorComponent.input.cache
+D:\mobile app\Zadanie11\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Pages\Alarmclock.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Shared\Dropdown.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Shared\DropdownListItem.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.RazorComponent.output.cache
+D:\mobile app\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Zadanie11.dll
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.TagHelpers.input.cache
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.TagHelpers.output.cache
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.RazorCoreGenerate.cache
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Razor\Pages\Alarmclock.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Razor\Shared\Dropdown.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Razor\Shared\DropdownListItem.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\pl\Zadanie11.resources.dll
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\hr8DZUzu.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\n7GXyC86.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\3NfNCfRc.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\PhcxWO9L.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\J1N8HpFL.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\vMw7t3TP.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\Fdw0ajZI.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\aMTn1RV6.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\lYkx3U0d.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\Rzr1CQXV.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\sd5t4e32.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\+aEykS09.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\oWsTIKKa.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\yaWK1Sk8.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\4x5r+mE0.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\DGVrS93F.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\XVMC4E7e.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\5F6Fi7z5.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\4zg0FkvS.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\49A5MuzN.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\fdWFzTfv.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\3F8JOhOS.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\WRMAFh53.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\CunhKpIB.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\birYG11D.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\vx2FGpGe.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\9nrQAC5O.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\C+70l8Az.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\2nNn0raM.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\0cSdpwHP.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\ZaVTSV8C.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\qXs0GcCp.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\9Ld6l+2l.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\KkxBFcwE.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\eg1hR8Hr.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\J+uIVszq.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\nHHXmiP+.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\JBEUl42l.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\A6pneu7O.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\VMwdEPan.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\7icEriL3.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\Mx6oxsE+.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\uzVUW0xa.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\fw+s0zDk.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\thqc+Nl1.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\WTFXYukE.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\RnmA24Yo.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\JDiGJFcU.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\Xl77JLxG.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\PSXmWuml.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\pcaxf+0B.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\t7OyC5JC.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\yt9TbboN.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\a+R1vrAM.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\JSxsjtvR.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\9k4OBMMu.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\uoF3lrkz.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\EqMZlwXm.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\BvX7KIy7.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\sr95jpBo.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\EE+7DcAm.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\BNSprg7B.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\hlu4VSrQ.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\1AaU4GRE.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\Tl4QoWjE.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\Gf1+ZfOx.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\fQgzQ7RO.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\PUi2BGD3.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\+sWTL69X.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\v7bJTepT.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\csspkIHh.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\0L7qP8ES.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\TbIJ+YU+.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\9p3o+gWq.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\r3B+bVxm.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\JZNpljaa.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\CPqpI5Yv.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\6daRSASf.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\DFQcnXdr.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\NaFmFvVu.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\fDWyrnOj.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\VY8DIol7.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\lNke9MCg.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\+g+qnjUA.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\VE+xBIES.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\a9lsZASH.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\KuU4gLjd.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\rt6IO1hd.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\3wa4UD8v.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\bY6wxzoE.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\81WJvIuX.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\eSX+gtJo.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\9FGeYmBu.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\AJO15VO8.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\MpYNMY2S.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\RUb+2Klp.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\Yi1HyEo9.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\ZWVn72ki.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\6+RG5ahc.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\1ssHZEUd.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\MwjYnj4M.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\Ig6ONl+v.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\Em+2rf8O.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\fu+jlnB8.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\EuJEtyQE.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\QKr9SUWD.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\I78vaELx.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\6QwEASvv.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\+NNENGYV.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\5+lLBEAz.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\644P+GCB.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\Ue9qZfh6.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\4PMVfPhG.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\DZDR2iJa.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\oXJcUG1S.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\W8yrhS8D.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\0Z+x9wp+.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\1iMMkIzp.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\vYhkkPhU.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\0+OP6gEV.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\ep7y4Qxi.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\rVpE7Fh+.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\Pvzhz95k.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\HrL9yKeA.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\CxWNoZlB.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\JvI+sbnM.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\mZuMr1JU.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\OMvvS1IT.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\gBUUxx4w.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\r7TBmv62.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\9TGrjWjy.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\xHMbyp7z.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\XrFq++iJ.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\pBHwXYd0.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\IlM5o5hl.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\PrFAmpJV.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\aKWyQQlc.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\GLJcAgsf.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\iLgJKaf8.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\a5j1+TjA.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\8rvbMrWG.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\aNLuwin6.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\+pfoaM+N.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\6HATejD+.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\1hFsMuf+.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\ts1sPL7Y.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\7QlY5h4+.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\ilj9t+RE.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\gaSzh+RI.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\k+zHrvLi.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\p2DfprDV.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\J3rvoHU+.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\+emYT1yH.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\Mm8Dc0j+.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\VUJnbRlQ.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\3ehQpXai.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\yoUmEpTW.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\JwO6cRXG.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\+cEwLdto.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\30jNTm6X.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\EhMA9jMI.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\KQjZB1gZ.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\jzq0pvXE.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\F2+p7+c5.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\ghtAUl0I.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\vgC+vlQD.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\6U7IAaRX.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\bYGqMZwk.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\auRmgMeX.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\Z64mxP7V.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\JU9OMxYa.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\p24YtTpo.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\L7qi0gn9.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\p2+zxgbh.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\HK7KdhyC.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\3GXvmnAf.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\RC88WqDp.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\ZBEfDKMd.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\Y4MsUjGO.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\skZOXi4L.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\64BySn+8.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\k0zKyo3U.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\RV4Kk2iM.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\msS2GFXB.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\BDsKbH++.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\Ai7+E+y0.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\CJKE87fT.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\S0LlqiBI.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\CyUA96Fn.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\vkcxcD1I.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\CO77Ylt5.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\62jBs3Qv.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\NaYxdB8c.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\yCBCNogF.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\build-gz\+MVpsBVq.gz
+D:\mobile app\Zadanie11\obj\Debug\net5.0\blazor.satelliteasm.props
+D:\mobile app\Zadanie11\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\mobile app\Zadanie11\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\mobile app\Zadanie11\obj\Debug\net5.0\scopedcss\bundle\Zadanie11.styles.css
+D:\mobile app\Zadanie11\obj\Debug\net5.0\scopedcss\projectbundle\Zadanie11.bundle.scp.css
+D:\mobile app\Zadanie11\obj\Debug\net5.0\staticwebassets\Zadanie11.StaticWebAssets.Manifest.cache
+D:\mobile app\Zadanie11\obj\Debug\net5.0\staticwebassets\Zadanie11.StaticWebAssets.xml
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.RazorTargetAssemblyInfo.cache
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Zadanie11.csproj.CopyComplete
+D:\mobile app\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Pages\Alarm.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\RazorDeclaration\Pages\Stopwatch.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Razor\Pages\Alarm.razor.g.cs
+D:\mobile app\Zadanie11\obj\Debug\net5.0\Razor\Pages\Stopwatch.razor.g.cs

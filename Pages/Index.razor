@@ -1,0 +1,182 @@
+﻿@page "/"
+@using MultiLanguageSupport.MLIndex
+<!-- nav - element nawigacyjny. -->
+<!-- navbar - rodzaj elementu nawigacyjnego (na przykład navbar, nav). -->
+<!-- navbar-expand - określa kiedy zmieni się wyświetlane menu z poziomego na pionowe. -->
+<!-- navbar-expand - zawsze menu poziome. -->
+<!-- navbar-expand- - zawsze menu pionowe. -->
+<!-- navbar-expand-md - dla komputerów i tabletów menu poziome, dla telefonów menu pionowe. -->
+<!-- navbar-dark - jasne litery dostosowane do ciemnego tła. -->
+<!-- navbar-light - ciemne litery dostosowane do jasnego tła. -->
+<!-- bg-dark - ciemne tło. -->
+<!-- bg-light - jasne tło. -->
+<div class="d-none d-md-block">
+    <nav class="navbar navbar-expand-md py-0 navbar-light bg-light">
+        <!-- container-fluid - elementy menu dorównane do lewej zajmują najbardziej skrajną pozycję z lewej, a dorównane do prawej najbardziej skrajną pozycję z prawej. -->
+        <div class="container-fluid">
+            <!-- navbar-brand - miejsce na umieszczenie nazwy firmy lub nazwy programu. -->
+            <!-- href - link do strony. -->
+            <!-- href="#" - przekierowanie na górę strony. -->
+            <a class="navbar-brand" @onclick="HomeClick">@MLIndex.appname</a>
+            <!-- navbar-toggler - przycisk rozwijający menu pionowe. -->
+            <!-- data-bs-toggle, data-bs-target - służą do kontroli zwijanych elementów. -->
+            <!-- data-bs-target - określa identyfikator obiektu, który będzie rozwijany/zwijany po wciśnięciu przycisku. -->
+            <!-- aria - ułatwienia dostępu dla osób niepełnosprawnych. -->
+            <!-- aria-controls - oznaczenie, który elemnt kontroluje przycisk. -->
+            <!-- aria-expanded - ozanczenie czy element rozwijany jest aktualnie rozwinięty czy zwinięty. -->
+            <!-- aria-label - etykieta przycisku. -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Przełącznik nawigacyjny">
+                <!-- span - przypisanie ikony do przycisku. -->
+                <!-- navbar-toggler-icon - nazwa ikony (ikona ze standardowego zbioru Bootstrapa-a). -->
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- collapse navbar-collapse - grupowanie i ukrywanie paska nawigacyjnego dostosowane do ustawionego punktu przerwania. -->
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <!-- navbar-nav - styl Bootstrap-a zdefiniowany dla list. -->
+                <!-- me-auto mb-2 mb-md-0 - ustawianie marginesów (m oznacza margines). e - ustawienie prawego marginesu dla języków LTR (tekst języka jest pisany od lewej do prawej) lub lewego marginesu dla języków RTL (pisanych od prawej do lewej). b - ustawieniedolnego marginesu. auto - margines ustawiany automatycznie. 0 - brak marginesu. 2 - margines o szerokości 50% wartości zmiennej $spacer. -->
+                <!-- me-auto - prawy margines jest ustawiany automatycznie. -->
+                <!-- mb-2 mb-md-0 - brak dolnego marginesu dla tabletów i komputerów, dla telefonów wynosi on 50% wartości zmiennej $spacer. Uwaga: Oznaczenie punktu przerwania (w przykładzie md) w navbar-expand-md i mb-md-0 musi być takie samo. -->
+                <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                    <!-- nav-item - używane ze względu na przełączanie się między menu poziomym, a pionowym. -->
+                    <li class="nav-item">
+                        <!-- nav-link - definicja wyglądu elementów pozwalajacych na wybranie opcji menu. -->
+                        <!-- aria-current - ułatwienia dostępu dla osób niepełnosprawnych: nazwa opcji. -->
+                        <a class="nav-link" aria-current="Opcja 1" @onclick="Option1Click">@MLIndex.alarmclock</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="Opcja 2" @onclick="Option2Click">@MLIndex.alarm</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="Opcja 3" @onclick="Option3Click">@MLIndex.stopwatch</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div hidden="@home">
+        <h1>@MLIndex.appname</h1>
+    </div>
+    <!-- @hidden - widoczność kontrolki sterowana przez pole option1. -->
+    <div hidden="@option1">
+        <h1>@MLIndex.alarmclock</h1>
+    </div>
+    <!-- @hidden - widoczność kontrolki sterowana przez pole option2. -->
+    <div hidden="@option2">
+        <h1>@MLIndex.alarm</h1>
+    </div>
+    <div hidden="@option3">
+        <h1>@MLIndex.stopwatch</h1>
+    </div>
+    @code {
+        private bool home = false;
+        private bool option1 = true;
+        private bool option2 = true;
+        private bool option3 = true;
+        private bool textsize = false;
+
+        private void HomeClick()
+        {
+            home = false;
+            option1 = true;
+            option2 = true;
+            option3 = true;
+            textsize = false;
+        }
+
+        private void Option1Click()
+        {
+            home = true;
+            option1 = false;
+            option2 = true;
+            option3 = true;
+            textsize = true;
+        }
+
+        private void Option2Click()
+        {
+            home = true;
+            option1 = true;
+            option2 = false;
+            option3 = true;
+            textsize = true;
+        }
+        private void Option3Click()
+        {
+            home = true;
+            option1 = true;
+            option2 = true;
+            option3 = false;
+            textsize = true;
+        }
+    }
+    <!-- Element widoczny na ekranach tabletów i większych. -->
+<div class="d-none d-md-block d-lg-none">
+    <p hidden="@textsize">Program Stopwatch - tekst na średnie ekrany</p>
+</div>
+<div class="d-none d-md-none d-lg-block">
+    <p hidden="@textsize"> Program Stopwatch - tekst na duże ekrany</p>
+</div>
+</div>
+<!-- mini navbar -->
+<div class="d-md-none">
+    <nav id="navbarsm" class="navbar navbar-light bg-light">
+        <!-- container-fluid - elementy menu dorównane do lewej zajmują najbardziej skrajną pozycję z lewej, a dorównane do prawej najbardziej skrajną pozycję z prawej. -->
+        <div class="container-fluid">
+            <!-- navbar-brand - miejsce na umieszczenie nazwy firmy lub nazwy programu. -->
+            <!-- href - link do strony. -->
+            <!-- href="#" - przekierowanie na górę strony. -->
+            <a class="navbar-brand" @onclick="HomeClick">@MLIndex.appname</a>
+            <!-- navbar-toggler - przycisk rozwijający menu pionowe. -->
+            <!-- data-bs-toggle, data-bs-target - służą do kontroli zwijanych elementów. -->
+            <!-- data-bs-target - określa identyfikator obiektu, który będzie rozwijany/zwijany po wciśnięciu przycisku. -->
+            <!-- aria - ułatwienia dostępu dla osób niepełnosprawnych. -->
+            <!-- aria-controls - oznaczenie, który elemnt kontroluje przycisk. -->
+            <!-- aria-expanded - ozanczenie czy element rozwijany jest aktualnie rozwinięty czy zwinięty. -->
+            <!-- aria-label - etykieta przycisku. -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Przełącznik nawigacyjny">
+                <!-- span - przypisanie ikony do przycisku. -->
+                <!-- navbar-toggler-icon - nazwa ikony (ikona ze standardowego zbioru Bootstrapa-a). -->
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- collapse navbar-collapse - grupowanie i ukrywanie paska nawigacyjnego dostosowane do ustawionego punktu przerwania. -->
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <!-- navbar-nav - styl Bootstrap-a zdefiniowany dla list. -->
+                <!-- me-auto mb-2 mb-md-0 - ustawianie marginesów (m oznacza margines). e - ustawienie prawego marginesu dla języków LTR (tekst języka jest pisany od lewej do prawej) lub lewego marginesu dla języków RTL (pisanych od prawej do lewej). b - ustawieniedolnego marginesu. auto - margines ustawiany automatycznie. 0 - brak marginesu. 2 - margines o szerokości 50% wartości zmiennej $spacer. -->
+                <!-- me-auto - prawy margines jest ustawiany automatycznie. -->
+                <!-- mb-2 mb-md-0 - brak dolnego marginesu dla tabletów i komputerów, dla telefonów wynosi on 50% wartości zmiennej $spacer. Uwaga: Oznaczenie punktu przerwania (w przykładzie md) w navbar-expand-md i mb-md-0 musi być takie samo. -->
+                <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                    <!-- nav-item - używane ze względu na przełączanie się między menu poziomym, a pionowym. -->
+                    <li class="nav-item">
+                        <!-- nav-link - definicja wyglądu elementów pozwalajacych na wybranie opcji menu. -->
+                        <!-- aria-current - ułatwienia dostępu dla osób niepełnosprawnych: nazwa opcji. -->
+                        <a class="nav-link" aria-current="Opcja 1" @onclick="Option1Click">@MLIndex.alarmclock</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="Opcja 2" @onclick="Option2Click">@MLIndex.alarm</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="Opcja 3" @onclick="Option3Click">@MLIndex.stopwatch</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- @using - dyrektywa pozwalająca dołączać zasoby. -->
+    <!-- MultiLanguageSupport.MLIndex - ścieżka do zasobu. MultiLanguageSupport i MLIndex to katalogi oddzielone kropką. -->
+    <!-- @MLIndex.button - nazwa klucza w pliku zasobów. MLIndex to plik zasobów, a button to klucz. Zostaje zastąpione przez odpowiedni tekst z pliku zasobów. -->
+    <p hidden="@textsize">Program Stopwatch - tekst na małe ekrany</p>
+</div>
+<!-- Wstawienie komponentu Component. -->
+<div hidden="@option1">
+    <Alarmclock />
+</div>
+<div hidden="@option2">
+    <Alarm />
+</div>
+<div hidden="@option3">
+    <Stopwatch />
+</div>
